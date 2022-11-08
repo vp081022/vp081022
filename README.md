@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Здравствуйте! 👋
+Здесь я выкладываю проекты по анализу данных и машинному обучению.
 <!--
 **vp081022/vp081022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
